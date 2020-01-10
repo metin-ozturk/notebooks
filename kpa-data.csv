@@ -1,0 +1,165 @@
+kpa-data
+;;;;
+code;age;gender;education;answers
+ÇDÜY;21-30;Kadın;Yüksek Lisans;a,b,a,a,a,a,a,a,a,a,a,a,a,b,b,a,b,a,a,a,a,a,b,b,b,a,a,b,a,b,a,b
+ÇDÜY;21-30;Erkek;Üniversite;b,a,b,a,a,a,b,a,a,b,a,a,b,b,b,a,a,a,a,a,b,a,b,b,a,a,a,a,a,b,b,b
+ŞDÜY;21-30;Erkek;Üniversite;a,a,a,b,a,a,a,b,b,b,b,a,b,a,a,a,a,a,a,a,b,b,b,a,a,a,b,b,a,a,b,a
+ŞSÜY;21-30;Kadın;Üniversite;a,b,a,a,a,a,a,b,b,a,b,a,b,a,a,b,a,b,b,a,a,b,a,a,a,b,a,b,a,a,b,b
+ÇSUY;31-40;Kadın;Yüksek Lisans;a,b,b,a,a,a,b,b,b,a,b,b,a,b,b,b,b,b,a,b,b,a,b,a,a,b,b,a,a,a,b,b
+ÇDUA;31-40;Kadın;Lise;a,b,a,b,b,a,b,a,b,b,b,b,a,b,b,b,a,b,a,b,a,a,b,a,a,b,a,a,a,a,b,b
+ŞSÜY;21-30;Kadın;Üniversite;a,a,a,a,a,b,b,b,b,b,b,a,a,b,a,b,a,b,a,a,b,b,b,b,b,b,a,a,b,a,a,a
+ÇDUY;31-40;Erkek;Üniversite;b,a,b,a,a,b,b,b,b,a,a,a,b,a,a,a,b,a,b,b,b,a,b,a,b,a,a,b,a,b,b,a
+ÇDÜY;31-40;Kadın;Üniversite;a,a,b,a,a,a,b,a,a,b,b,a,a,b,b,b,a,a,a,a,a,a,b,a,a,a,a,b,a,b,a,b
+ÇDÜY;31-40;Erkek;Üniversite;b,a,b,b,a,a,b,b,a,b,b,a,a,a,b,a,a,a,b,a,b,a,a,b,b,a,b,b,b,b,a,b
+ŞSÜY;21-30;Kadın;Üniversite;a,b,a,a,a,a,b,b,a,a,b,a,a,b,b,b,b,b,b,b,a,b,b,a,b,a,a,b,a,a,a,a
+ÇSÜY;31-40;Erkek;Yüksek Lisans;a,a,a,a,a,a,b,b,a,b,a,a,a,b,b,a,b,a,a,a,b,a,b,a,b,b,b,a,b,a,b,b
+ŞDUA;31-40;Kadın;Üniversite;a,b,b,a,a,b,b,a,b,b,b,b,a,b,a,b,b,a,b,b,a,a,b,b,b,a,b,b,a,a,b,a
+ÇSÜY;21-30;Kadın;Yüksek Lisans;b,a,a,a,a,a,a,b,a,a,b,b,a,b,b,b,a,a,b,a,b,a,b,b,b,a,a,a,a,a,a,b
+ŞSÜY;41-50;Erkek;Lise;b,b,b,a,a,a,a,b,a,a,b,a,b,b,a,a,b,a,b,b,b,a,a,a,a,a,a,a,a,a,b,a
+ÇDÜY;21-30;Erkek;Yüksek Lisans;a,a,a,a,a,a,a,b,a,b,a,a,a,b,a,b,a,b,b,a,a,b,b,b,a,a,b,a,b,a,a,b
+ÇSÜY;31-40;Kadın;Yüksek Lisans;a,a,a,a,a,b,b,a,b,a,b,a,a,b,b,b,b,b,a,b,b,a,b,b,a,b,b,a,a,a,a,a
+ÇDÜY;41-50;Kadın;Doktora;a,a,a,b,a,b,b,a,a,b,a,a,a,b,b,a,b,b,b,a,b,a,b,b,b,a,a,b,a,a,b,b
+ÇSÜA;41-50;Erkek;Üniversite;a,b,a,b,a,a,b,a,b,a,b,a,a,b,b,a,b,b,a,a,b,a,a,a,a,b,b,b,a,a,b,a
+ŞSÜY;21-30;Kadın;Üniversite;a,b,a,a,a,b,b,a,b,b,b,a,b,b,b,b,b,b,b,a,a,a,b,b,a,b,a,a,a,a,a,a
+ÇSÜA;31-40;Kadın;Üniversite;a,a,a,a,a,b,b,a,b,b,b,b,b,b,b,a,b,b,b,b,b,a,b,a,a,b,a,a,a,b,b,a
+ÇSÜY;21-30;Kadın;Üniversite;a,b,b,a,a,b,a,a,a,a,b,a,a,b,b,b,a,a,b,a,a,a,b,a,a,a,b,a,a,a,a,a
+ÇSÜY;21-30;Kadın;Yüksek Lisans;a,b,a,a,a,b,b,a,b,a,a,a,b,a,b,a,b,b,a,a,b,a,b,b,a,a,a,b,a,b,b,b
+ŞSÜA;41-50;Erkek;Yüksek Lisans;a,b,b,b,a,a,b,a,b,a,a,a,b,a,b,a,a,a,a,a,b,b,b,a,a,a,a,b,a,a,b,a
+ŞSUA;21-30;Kadın;Üniversite;a,a,b,a,b,b,b,b,b,a,b,b,b,a,a,b,b,b,a,b,a,a,a,a,a,b,a,a,a,b,b,b
+ÇSÜA;41-50;Kadın;Lise;a,a,b,a,a,a,b,a,a,a,b,b,b,b,a,b,a,a,a,a,b,a,b,b,b,b,b,a,a,a,b,a
+ÇDÜY;21-30;Erkek;Yüksek Lisans;a,b,a,b,a,a,b,a,a,a,b,a,a,b,b,a,a,b,b,b,b,a,b,b,a,a,a,a,a,b,a,b
+ÇDÜA;31-40;Kadın;Üniversite;b,b,b,b,a,a,a,a,b,b,a,a,a,a,b,a,a,b,b,b,a,b,b,b,a,b,a,b,a,b,b,a
+ŞSUA;31-40;Erkek;Yüksek Lisans;a,b,b,a,a,a,b,a,a,a,b,b,b,a,a,a,b,a,a,b,b,b,b,a,a,b,a,a,a,a,b,a
+ŞDUA;21-30;Erkek;Yüksek Lisans;a,b,b,a,a,b,b,a,b,b,b,a,b,a,a,b,a,b,a,b,a,a,a,a,a,b,a,a,a,b,b,a
+ÇSÜY;50 ve yukarısı;Erkek;Üniversite;a,b,a,a,a,a,b,b,a,b,b,a,b,b,a,a,b,a,b,b,b,a,b,a,a,b,b,b,a,a,b,b
+ŞDÜY;31-40;Kadın;Lise;b,b,b,a,a,b,b,b,a,b,b,a,a,b,b,b,a,a,b,b,a,a,b,b,a,a,a,b,a,a,b,a
+ÇSÜY;21-30;Kadın;Yüksek Okul (2 yıl);a,b,a,a,a,a,b,a,a,b,a,a,a,b,b,b,a,a,b,a,b,a,b,a,a,b,a,a,a,a,a,a
+ÇSÜY;21-30;Erkek;Yüksek Lisans;a,a,a,b,a,b,b,b,a,a,a,a,b,a,b,a,b,b,a,a,a,a,a,b,a,b,b,a,b,a,a,b
+ÇSÜY;31-40;Erkek;Yüksek Lisans;a,b,a,a,a,a,b,a,b,a,b,a,a,a,b,b,b,b,a,a,b,a,b,a,b,a,a,b,b,b,b,b
+ŞSUY;31-40;Erkek;Üniversite;a,a,b,a,a,b,b,a,a,a,b,b,b,a,a,a,a,b,a,b,b,a,b,a,a,b,b,a,a,b,b,a
+ÇDÜA;21-30;Kadın;Yüksek Okul (2 yıl);a,a,a,b,a,b,b,b,b,a,b,b,a,a,b,b,b,b,b,a,a,a,b,b,b,b,b,b,b,b,b,a
+ÇSÜY;31-40;Erkek;Üniversite;a,a,b,a,a,a,b,b,a,a,a,a,a,a,b,b,b,a,a,a,b,a,b,b,a,b,a,a,b,a,b,b
+ŞSÜA;41-50;Kadın;Yüksek Okul (2 yıl);a,b,a,a,a,b,b,a,b,a,a,a,b,a,a,a,a,a,a,b,b,a,a,a,b,b,a,a,b,a,a,a
+ŞSÜA;21-30;Kadın;Üniversite;a,b,b,b,a,a,b,a,b,a,b,a,a,b,a,a,a,b,b,a,b,b,b,b,a,b,b,a,b,a,a,a
+ÇDÜY;31-40;Erkek;Lise;b,b,a,a,a,a,a,b,a,b,a,a,a,b,b,b,a,b,a,a,b,a,b,b,b,a,b,a,a,a,a,a
+ÇSUY;21-30;Erkek;Yüksek Lisans;a,b,b,a,a,a,b,b,b,a,a,b,b,b,b,b,a,a,b,b,b,a,b,a,a,a,b,a,a,a,b,a
+ÇDÜA;31-40;Erkek;Lise;b,a,a,b,a,a,b,a,a,b,a,a,a,a,b,b,a,b,b,b,b,a,a,b,b,b,a,a,a,a,a,b
+ÇDÜA;41-50;Erkek;Yüksek Lisans;b,b,b,a,a,b,b,a,b,a,a,a,a,b,b,a,b,b,b,a,a,a,b,b,b,b,a,a,b,a,b,b
+ŞSUA;21-30;Kadın;Yüksek Lisans;a,b,b,b,a,a,b,a,a,a,b,b,b,b,b,b,b,a,a,b,b,b,b,a,a,b,a,b,a,a,a,a
+ÇSÜA;31-40;Erkek;Üniversite;a,b,b,b,a,a,b,a,b,a,b,a,a,b,b,b,b,b,b,b,b,a,b,a,a,b,a,a,b,b,b,a
+ŞDÜY;31-40;Kadın;Üniversite;b,b,b,a,a,b,a,a,b,a,b,b,a,b,a,a,a,b,b,a,b,a,b,a,a,a,a,a,a,b,a,a
+ŞSÜY;31-40;Erkek;Üniversite;a,b,a,b,a,a,a,a,a,b,a,a,b,a,a,b,a,b,a,b,b,a,b,a,a,a,a,b,a,a,b,a
+ŞSÜY;21-30;Kadın;Üniversite;a,b,a,a,a,b,a,b,a,b,b,a,a,b,b,b,a,b,b,b,b,b,b,a,a,b,b,a,a,a,b,a
+ŞDÜA;41-50;Kadın;Lise;b,b,b,b,a,b,b,a,b,a,b,a,a,b,a,a,a,a,b,b,b,b,a,b,b,a,b,a,b,a,b,b
+ÇDÜA;31-40;Kadın;Lise;a,b,a,a,a,a,b,a,b,a,b,a,a,b,b,b,b,b,b,a,a,a,b,b,b,b,a,b,b,b,b,b
+ŞDÜY;31-40;Erkek;Üniversite;b,b,b,a,b,b,b,b,b,a,b,a,a,b,b,a,b,a,b,a,b,b,b,a,a,a,b,b,a,a,b,a
+ÇSÜY;31-40;Erkek;Üniversite;a,b,b,b,a,b,a,b,b,a,a,a,a,a,b,b,b,a,b,a,b,a,b,a,a,b,b,a,b,a,a,b
+ŞSÜA;21-30;Kadın;Üniversite;a,b,b,b,a,b,b,a,b,a,b,a,b,a,a,b,b,b,a,a,b,a,b,b,a,b,a,a,a,a,b,a
+ŞSÜY;21-30;Kadın;Yüksek Okul (2 yıl);a,b,a,b,a,a,a,a,b,b,b,b,b,a,a,b,a,b,a,b,b,b,b,b,a,a,b,a,a,a,b,b
+ÇDÜY;21-30;Erkek;Üniversite;a,b,b,b,a,b,a,a,a,a,b,a,a,b,b,a,a,b,b,a,b,a,b,a,a,a,b,b,a,a,b,a
+ÇSUY;21-30;Kadın;Yüksek Okul (2 yıl);a,b,b,a,b,b,b,b,b,a,b,b,a,b,b,b,b,a,b,a,a,a,b,a,b,a,b,a,a,a,a,b
+ŞDÜY;31-40;Kadın;Üniversite;a,b,a,a,a,b,b,a,b,a,a,a,a,b,a,a,a,b,a,b,b,a,b,b,a,a,a,a,a,b,b,a
+ÇDÜA;31-40;Erkek;Yüksek Okul (2 yıl);a,a,b,a,a,b,b,a,b,a,b,a,a,a,b,b,a,a,b,b,b,b,b,b,b,b,b,b,b,b,a,b
+ÇSUY;21-30;Kadın;Üniversite;a,a,b,a,b,b,b,b,a,a,a,b,b,b,a,b,b,b,a,b,b,a,a,a,a,b,a,a,a,a,b,b
+ÇDÜY;21-30;Kadın;Üniversite;b,b,a,a,a,a,b,a,b,b,b,a,a,a,b,a,a,b,b,a,b,a,b,b,a,a,b,a,b,a,b,b
+ÇSÜY;20 ve altı;Erkek;Lise;a,b,a,a,a,a,a,a,a,a,b,a,a,b,b,b,a,b,b,a,b,a,b,b,a,a,b,a,b,a,a,b
+ŞSÜA;31-40;Erkek;Üniversite;a,a,b,a,a,b,a,a,a,b,b,a,a,b,b,b,a,a,a,a,b,b,a,b,a,b,a,a,a,a,b,b
+ÇSÜA;31-40;Kadın;Yüksek Lisans;a,b,a,b,a,b,b,a,b,a,a,a,a,a,a,b,a,b,b,b,b,a,b,b,a,a,b,a,a,b,b,b
+ŞDÜA;31-40;Erkek;Üniversite;a,b,b,b,b,b,b,a,b,b,b,a,a,b,b,a,b,b,a,a,b,b,b,b,a,a,b,b,b,a,b,a
+ÇSÜA;31-40;Erkek;Üniversite;a,a,a,b,a,a,a,b,b,a,a,a,b,b,b,b,b,a,b,a,a,b,a,a,a,b,b,b,b,a,a,a
+ÇDÜY;41-50;Kadın;Üniversite;a,b,a,a,a,a,b,a,a,a,b,a,a,b,b,b,a,b,a,a,a,a,b,a,a,a,a,b,b,b,a,b
+ŞSUA;21-30;Kadın;Üniversite;a,b,b,b,b,b,b,a,b,a,a,b,b,a,a,b,b,a,a,a,b,b,a,a,a,b,a,a,a,a,b,a
+ÇDÜY;21-30;Kadın;Üniversite;a,b,b,a,a,a,b,b,a,a,a,a,a,b,b,a,a,a,b,b,a,b,b,a,a,a,a,a,a,a,a,b
+ÇDUY;21-30;Erkek;Üniversite;a,b,b,a,a,a,b,b,a,b,a,a,a,a,b,a,a,b,b,b,a,a,b,b,b,a,a,a,a,a,a,a
+ŞDÜY;31-40;Kadın;Üniversite;a,a,b,a,a,b,a,b,a,b,a,b,b,a,a,a,b,b,a,b,b,b,b,b,a,b,a,b,b,b,a,a
+ÇDÜY;31-40;Erkek;Üniversite;a,a,b,a,a,b,b,a,b,b,a,a,a,a,b,a,a,a,b,b,b,a,b,b,a,a,b,a,b,b,a,b
+ÇSÜA;31-40;Erkek;Üniversite;a,a,a,b,a,a,b,a,a,a,a,a,b,a,b,a,a,b,a,a,b,a,a,a,a,a,a,b,a,a,b,a
+ÇDÜY;21-30;Kadın;Üniversite;b,a,b,b,a,a,a,b,a,b,b,a,a,a,b,b,a,a,b,a,b,a,b,b,a,a,a,a,a,b,b,b
+ŞSÜY;21-30;Kadın;Üniversite;a,a,b,a,a,a,a,a,a,b,b,a,b,a,a,b,b,b,a,a,b,b,a,a,a,a,a,a,a,a,b,a
+ÇSÜY;21-30;Kadın;Üniversite;b,a,a,a,b,a,a,b,a,a,a,b,b,b,b,b,a,a,a,a,a,b,a,a,a,b,b,a,b,a,a,b
+ÇSÜY;21-30;Erkek;Yüksek Lisans;a,b,b,a,a,a,a,a,b,a,a,a,b,b,b,b,b,a,b,b,a,a,b,a,a,a,a,a,a,b,a,a
+ÇDÜY;41-50;Erkek;Üniversite;b,a,a,a,a,a,a,b,a,a,b,a,a,b,b,a,a,b,b,b,b,a,b,b,a,a,a,b,a,b,a,b
+ŞSÜY;41-50;Kadın;Lise;a,b,b,a,a,b,a,b,b,a,a,b,a,b,a,b,a,b,b,b,b,b,b,b,a,b,a,a,b,a,b,b
+ŞSUA;21-30;Erkek;Üniversite;b,a,b,b,b,b,a,b,b,b,b,b,b,a,a,a,b,a,a,a,b,a,a,a,a,b,b,a,b,a,b,a
+ÇSÜY;21-30;Kadın;Üniversite;a,a,a,a,a,b,b,b,a,a,a,a,a,b,b,b,a,b,b,a,a,a,b,b,a,b,b,a,a,a,a,b
+ÇDÜY;50 ve yukarısı;Erkek;Yüksek Lisans;a,b,a,a,a,a,a,a,b,b,b,a,a,b,b,a,b,b,b,a,b,a,b,b,b,a,a,b,a,a,b,a
+ŞSUA;21-30;Erkek;Lise;a,b,b,a,a,b,b,a,b,a,b,a,b,a,a,a,a,b,a,b,b,b,a,a,a,a,a,b,a,a,b,a
+ÇDUA;21-30;Erkek;Üniversite;b,b,a,b,a,a,a,a,a,b,b,a,a,a,b,b,b,a,a,b,b,a,b,a,b,b,b,b,a,a,b,a
+ŞDÜA;21-30;Kadın;Lise;a,b,a,b,a,b,b,a,b,b,b,b,a,b,b,b,a,a,a,a,a,a,b,b,a,a,b,a,a,a,a,a
+ÇSÜY;21-30;Erkek;Yüksek Lisans;a,a,b,b,a,a,b,a,a,a,a,a,a,b,b,a,a,a,b,a,b,a,b,b,a,a,a,a,a,a,a,a
+ŞSÜA;41-50;Kadın;Üniversite;a,a,a,b,a,b,b,a,b,a,b,a,a,a,a,b,b,a,a,a,b,a,a,b,b,a,a,a,b,a,b,b
+ŞSÜY;21-30;Erkek;Üniversite;b,b,a,b,a,a,a,a,a,b,b,a,a,a,b,b,b,a,a,b,b,a,b,b,b,a,a,a,a,a,a,a
+ÇSÜY;31-40;Erkek;Üniversite;a,b,b,a,a,a,a,b,b,a,b,a,a,b,b,b,a,a,a,b,b,a,b,b,a,a,b,b,a,a,b,b
+ŞSUA;21-30;Erkek;Üniversite;a,b,b,b,a,a,b,a,b,a,a,a,a,a,a,a,b,b,a,b,b,b,b,a,a,b,a,a,a,a,b,a
+ÇDÜY;21-30;Erkek;Yüksek Okul (2 yıl);b,b,b,b,a,a,b,b,a,b,a,a,a,a,b,b,a,b,b,b,b,a,a,b,a,a,b,a,a,b,a,b
+ŞSÜY;21-30;Kadın;Üniversite;a,b,b,a,a,a,a,a,a,a,b,a,a,b,b,b,b,b,a,a,b,b,b,a,b,b,a,b,b,b,b,a
+ÇSÜY;31-40;Erkek;Üniversite;a,b,a,b,a,a,b,a,a,a,a,a,a,a,b,b,b,a,b,a,b,b,b,a,a,a,b,b,b,a,a,a
+ÇDÜY;31-40;Erkek;Üniversite;b,a,b,a,a,a,a,b,a,a,a,a,b,a,b,a,a,a,b,a,b,a,a,a,a,a,a,b,a,b,b,a
+ŞSÜA;21-30;Kadın;Üniversite;a,b,b,b,a,b,b,a,b,a,b,a,a,a,a,b,a,b,b,a,a,b,b,b,a,b,a,a,b,a,b,a
+ŞSÜY;50 ve yukarısı;Erkek;Üniversite;a,b,b,a,a,a,b,a,b,a,b,b,b,b,b,b,b,b,a,b,b,a,b,b,a,a,a,a,a,a,b,a
+ŞSÜA;21-30;Erkek;Üniversite;a,b,b,a,a,b,b,a,b,a,b,a,b,b,b,a,b,b,b,a,b,b,a,a,a,b,b,b,a,b,b,a
+ŞSÜA;21-30;Erkek;Üniversite;a,b,b,b,a,b,b,a,b,b,b,a,b,a,a,b,b,b,a,a,b,b,a,a,a,b,a,a,a,a,b,a
+ÇSÜY;31-40;Kadın;Üniversite;a,b,a,a,a,a,a,a,a,a,a,a,a,b,b,b,b,b,a,a,a,a,a,b,a,b,b,a,a,a,a,a
+ŞDUY;21-30;Kadın;Lise;a,b,b,a,b,b,a,b,b,b,b,b,a,a,b,b,a,b,a,b,a,a,a,b,b,b,a,b,b,b,b,a
+ŞSÜA;21-30;Kadın;Yüksek Okul (2 yıl);a,a,a,b,a,a,b,b,b,a,b,a,b,a,a,a,a,a,a,b,b,b,b,b,a,b,a,a,b,a,b,a
+ŞSÜY;21-30;Kadın;Üniversite;a,b,b,a,a,b,a,a,a,a,a,a,a,a,a,a,a,a,a,b,b,a,a,b,a,a,a,a,a,a,a,a
+ÇDUY;31-40;Kadın;Üniversite;b,b,b,a,a,a,a,b,a,b,b,b,a,b,b,b,a,b,a,b,b,a,b,b,b,a,b,a,a,b,b,a
+ÇDÜA;31-40;Erkek;Üniversite;a,b,a,b,a,a,b,a,b,b,b,a,a,b,b,b,a,b,b,b,b,b,b,a,b,a,a,b,a,b,b,b
+ŞSÜY;31-40;Erkek;Üniversite;a,b,b,a,a,b,a,a,b,a,b,a,a,b,b,b,b,b,a,b,a,b,a,a,b,a,a,b,b,a,a,b
+ŞSÜA;21-30;Erkek;Üniversite;a,b,b,b,a,b,b,a,b,a,b,a,a,b,b,b,a,a,a,a,b,a,b,b,a,a,a,a,a,a,b,a
+ÇDUA;21-30;Erkek;Yüksek Lisans;b,a,b,a,a,a,b,a,a,b,a,b,a,b,b,b,b,b,b,b,a,b,a,a,a,b,b,a,a,a,b,a
+ÇSÜY;21-30;Kadın;Yüksek Okul (2 yıl);a,b,a,a,a,a,b,a,b,a,a,a,a,b,b,b,a,a,b,a,b,a,b,b,a,a,b,a,a,a,a,b
+ŞSÜA;31-40;Kadın;Üniversite;a,b,b,b,a,a,b,a,b,a,b,b,b,b,a,b,a,a,a,a,b,b,a,a,a,b,b,a,a,a,b,a
+ÇDÜY;21-30;Kadın;Yüksek Lisans;a,a,b,a,a,b,b,a,b,b,b,a,a,b,b,b,a,a,a,b,b,a,b,b,b,a,b,a,a,b,a,b
+ÇDÜY;31-40;Kadın;Üniversite;a,a,a,a,a,a,a,b,a,b,a,a,a,a,b,b,a,b,b,b,a,b,b,b,b,b,b,a,b,a,b,b
+ŞDUY;31-40;Kadın;Üniversite;a,b,b,b,b,b,a,b,a,a,b,b,a,a,b,a,a,b,b,a,a,a,b,a,a,b,a,b,a,a,b,a
+ÇSÜY;21-30;Kadın;Üniversite;a,a,b,b,a,a,a,b,a,a,a,a,a,b,b,a,b,a,b,a,b,a,a,b,b,a,b,a,b,b,a,b
+ÇDÜA;21-30;Kadın;Lise;b,b,a,a,a,a,b,b,b,b,b,b,b,b,b,b,a,a,b,a,b,a,b,b,a,b,a,b,b,a,b,b
+ÇDUY;31-40;Kadın;Yüksek Okul (2 yıl);b,b,b,a,a,b,a,b,a,b,b,a,a,a,b,b,b,a,b,b,a,a,b,a,b,a,b,b,a,b,b,b
+ÇSÜA;31-40;Erkek;Üniversite;a,a,b,a,a,a,b,a,a,a,a,b,b,a,b,b,b,a,a,a,b,a,b,b,a,b,a,a,a,a,b,a
+ÇDÜY;31-40;Kadın;Üniversite;a,b,b,a,a,a,a,b,b,b,b,a,a,b,b,b,b,b,b,a,b,b,b,b,a,a,b,b,a,b,b,b
+ÇDUY;21-30;Kadın;Üniversite;a,b,b,a,a,a,a,a,a,b,b,a,a,b,b,a,a,a,b,b,a,a,b,a,b,a,b,b,a,b,b,b
+ŞSUY;41-50;Kadın;Yüksek Lisans;a,b,b,a,b,b,b,b,b,a,a,b,b,a,a,b,b,b,b,a,b,a,a,a,a,a,a,b,a,a,b,a
+ÇSÜA;41-50;Erkek;Üniversite;a,a,a,a,a,b,b,a,b,a,b,a,b,a,b,a,b,b,b,a,b,a,b,a,b,b,b,b,b,a,b,a
+ÇSÜY;31-40;Erkek;Yüksek Lisans;a,b,a,a,a,a,a,a,a,a,b,a,a,b,b,b,b,b,a,a,b,a,b,b,a,b,b,a,a,a,b,a
+ŞSÜA;21-30;Kadın;Üniversite;a,b,b,a,a,a,b,a,b,a,b,a,b,a,a,a,b,a,a,a,b,b,b,b,a,b,b,a,a,a,a,b
+ÇDÜY;21-30;Kadın;Lise;a,b,a,b,a,a,b,a,a,b,b,a,a,b,a,b,a,a,b,b,b,a,b,b,b,a,b,b,b,a,a,b
+ŞSÜA;41-50;Erkek;Üniversite;a,b,a,b,b,a,b,a,a,a,b,a,b,b,a,b,b,b,a,b,b,a,b,a,a,b,a,a,a,a,b,a
+ŞDÜY;41-50;Kadın;Üniversite;a,b,b,a,a,b,b,a,b,b,b,a,a,a,b,a,a,a,a,b,b,a,b,b,a,a,a,a,b,a,a,b
+ŞSÜA;31-40;Erkek;Lise;a,b,a,b,a,a,a,a,b,b,b,a,a,b,b,b,a,b,a,b,b,b,a,b,a,a,b,a,a,a,b,a
+ŞDUY;21-30;Kadın;Üniversite;b,b,b,a,a,b,b,b,b,b,b,b,b,a,b,b,a,b,a,b,b,a,b,a,a,b,a,b,b,b,b,a
+ÇSÜY;21-30;Erkek;Üniversite;a,b,b,a,a,a,a,b,a,b,b,a,a,a,b,a,b,a,b,a,b,a,b,a,a,a,a,a,a,a,a,b
+ŞDUY;41-50;Erkek;Yüksek Lisans;a,b,b,a,a,a,b,a,a,b,b,b,a,a,b,b,b,b,a,b,a,a,b,a,a,a,a,b,a,b,b,a
+ŞDUY;31-40;Kadın;Üniversite;a,a,a,b,b,b,a,a,a,b,a,b,a,a,a,a,a,a,a,a,b,a,b,a,a,b,a,a,a,a,a,a
+ÇSÜA;31-40;Erkek;Yüksek Lisans;a,a,b,a,a,a,b,a,b,a,a,a,b,a,a,a,b,a,a,a,b,b,a,b,a,b,b,a,a,a,a,a
+ÇSÜA;21-30;Erkek;Yüksek Lisans;a,a,b,b,a,b,a,a,b,a,a,a,b,a,b,b,a,a,b,a,b,a,b,b,b,a,b,b,b,b,b,a
+ŞSÜA;50 ve yukarısı;Erkek;Yüksek Lisans;a,b,a,b,a,b,b,a,a,a,b,b,a,b,b,b,a,b,a,b,b,a,b,b,a,b,a,a,b,a,b,b
+ÇDÜY;21-30;Erkek;Üniversite;b,b,b,a,a,a,a,a,a,a,b,a,a,b,b,a,a,a,a,a,b,a,b,b,a,b,b,b,b,b,a,b
+ŞDÜY;21-30;Kadın;Üniversite;a,b,b,a,a,a,a,a,a,b,a,a,b,a,a,a,a,b,a,b,a,b,a,b,b,b,a,b,b,b,b,a
+ÇSÜY;31-40;Erkek;Üniversite;a,b,b,a,a,a,b,a,a,a,b,a,a,b,b,b,b,a,b,b,b,a,b,b,a,a,b,b,a,b,b,b
+ÇDÜY;31-40;Erkek;Yüksek Lisans;a,a,a,a,a,a,b,b,a,b,b,a,b,b,b,a,a,a,b,a,b,b,b,a,b,a,b,b,b,b,b,b
+ÇSÜA;31-40;Erkek;Üniversite;a,a,b,b,a,a,b,a,b,a,b,a,b,a,b,b,b,b,a,a,b,a,b,b,b,b,b,b,b,b,b,a
+ÇDÜY;31-40;Kadın;Üniversite;b,b,b,a,a,a,a,a,a,a,a,a,a,a,b,a,a,b,b,a,a,b,b,b,a,a,b,a,b,b,a,b
+ÇDÜY;31-40;Kadın;Yüksek Okul (2 yıl);a,a,a,a,a,b,b,a,a,b,a,a,a,b,b,b,a,a,b,a,b,a,b,a,b,a,b,b,a,b,a,a
+ÇDÜA;41-50;Erkek;Üniversite;a,b,b,a,a,a,b,a,a,b,a,a,a,a,a,a,a,a,a,a,b,a,b,a,b,b,b,b,b,b,b,a
+ŞSÜA;21-30;Kadın;Üniversite;a,b,b,b,a,b,b,a,a,a,b,a,b,a,b,b,b,a,a,b,b,a,b,b,a,b,a,b,a,b,b,a
+ÇDÜY;50 ve yukarısı;Kadın;Üniversite;a,a,a,a,a,a,a,b,a,b,a,a,a,a,a,b,a,a,b,b,b,a,b,b,a,a,b,b,a,b,a,b
+ÇSÜY;31-40;Erkek;Üniversite;a,b,a,a,a,a,b,a,b,b,b,b,b,b,b,b,b,b,b,b,b,a,b,b,b,b,b,b,b,b,a,a
+ÇDÜY;50 ve yukarısı;Erkek;Üniversite;a,b,b,b,a,a,b,a,b,b,a,a,a,b,b,b,a,b,a,b,b,a,b,b,b,a,a,b,a,b,a,a
+ÇDÜY;21-30;Kadın;Yüksek Lisans;a,b,b,a,b,a,a,a,a,a,b,a,a,b,b,a,a,a,b,a,b,a,b,b,a,a,b,b,a,b,a,b
+ÇDÜY;21-30;Erkek;Üniversite;a,a,a,a,a,a,b,a,a,a,b,a,a,b,b,a,a,a,b,a,b,a,b,b,b,a,a,b,a,a,a,b
+ÇSÜY;21-30;Erkek;Üniversite;a,a,a,a,b,a,b,a,a,a,a,a,a,a,b,b,a,a,b,a,a,a,b,a,a,a,b,a,a,a,a,b
+ÇSÜY;50 ve yukarısı;Erkek;Doktora;a,b,a,a,a,a,b,b,b,a,a,a,a,b,b,b,b,b,b,b,a,b,b,a,b,a,a,a,a,b,b,a
+ÇSÜA;21-30;Erkek;Üniversite;a,b,b,b,a,a,b,b,b,a,a,b,b,b,b,b,a,a,b,a,b,a,a,a,a,a,b,a,a,a,b,b
+ÇDÜA;31-40;Erkek;Lise;b,b,a,b,b,a,b,b,a,b,a,b,a,b,b,a,b,a,b,a,a,b,a,b,b,b,a,b,b,a,b,b
+ÇSÜY;21-30;Erkek;Lise öncesi;a,a,b,a,b,a,a,b,b,a,a,b,a,b,a,b,b,a,b,a,b,b,b,b,a,b,b,b,a,b,a,a
+ÇDÜY;31-40;Kadın;Üniversite;b,a,b,b,a,a,b,b,a,b,a,b,a,a,a,b,a,a,b,a,a,a,b,a,a,b,b,b,b,b,a,b
+ÇSÜA;31-40;Kadın;Üniversite;a,a,a,a,a,b,b,a,b,b,a,a,b,a,b,b,b,a,a,a,b,a,a,a,a,b,a,b,a,a,b,a
+ÇSÜY;20 ve altı;Erkek;Lise;a,b,b,a,b,a,a,b,b,b,a,a,a,b,b,b,a,b,a,a,b,a,a,b,a,a,a,a,a,a,b,a
+ÇDÜY;21-30;Kadın;Üniversite;a,a,b,a,a,b,a,a,a,b,a,a,a,a,b,b,a,a,b,b,b,a,a,b,b,a,a,b,b,b,a,b
+ÇDUA;41-50;Kadın;Üniversite;a,a,b,b,a,a,a,b,b,b,a,b,a,a,b,a,a,a,b,b,b,b,a,a,a,b,a,b,a,b,b,b
+ŞSÜY;21-30;Kadın;Yüksek Okul (2 yıl);a,a,a,b,a,b,a,a,b,a,b,a,a,b,b,b,a,b,a,a,b,a,b,a,a,a,a,b,b,a,a,a
+ÇSÜA;21-30;Erkek;Üniversite;a,a,b,b,a,a,b,a,a,b,b,a,b,a,b,b,b,a,a,a,a,a,a,a,a,b,a,a,b,b,b,a
+ÇDÜA;21-30;Erkek;Üniversite;b,a,b,b,a,b,b,b,b,a,a,a,a,b,b,a,a,a,b,b,b,a,b,b,a,b,b,b,b,b,a,b
+ÇSÜY;20 ve altı;Kadın;Üniversite;a,b,a,a,a,a,a,a,a,a,a,a,a,b,a,b,a,a,b,a,b,a,b,b,a,b,b,a,a,a,a,a
+ÇDUA;21-30;Kadın;Üniversite;a,b,b,a,a,b,b,a,b,b,a,b,a,a,b,a,b,b,b,b,b,a,a,b,a,b,a,b,a,b,b,a
